@@ -11,3 +11,9 @@
 - Custom Kernels
 - Color Inversion
 - Black and White
+## To-do list
+- Implement multithreading to increase performance
+- Implement color grading sliders (contrast, brightness, saturation)
+- Implement low quality real-time preview
+- Customize UI with CSS
+- Refactor the hardcoded kernels to make use of the custom kernel interface paired with properties files
