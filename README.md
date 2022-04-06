@@ -16,3 +16,4 @@
 - Implement low quality real-time preview
 - Customize UI with CSS
 - Refactor the hardcoded kernels to make use of the custom kernel interface paired with properties files
+- Refactor code to remove 2-dimensional HashMaps (CoordinateMaps) and use integer arrays to increase performance.
